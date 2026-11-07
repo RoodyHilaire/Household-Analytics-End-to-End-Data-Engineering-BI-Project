@@ -123,29 +123,10 @@ household_analytics/
 Add screenshots of the actual project to illustrate the pipeline and its results.
 
 ### Airflow Pipeline
-
-Show the DAG graph with the staging, marts, and testing tasks.
-
-
 ![Airflow Pipeline](screenshots/airflow_pipeline.png)
 
-
-### Snowflake Data Warehouse
-
-Show the schemas and the resulting municipal KPI table.
-
-```markdown
-![Snowflake Data Model](screenshots/snowflake_mart.png)
-```
-
 ### Power BI Dashboard
-
-Show the actual municipal analytics dashboard.
-
-
 ![Power BI Dashboard](screenshots/powerbi_dashboard.png)
-
-
 
 ## Key Skills Demonstrated
 
