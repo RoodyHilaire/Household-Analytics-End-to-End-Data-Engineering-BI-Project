@@ -126,9 +126,9 @@ Add screenshots of the actual project to illustrate the pipeline and its results
 
 Show the DAG graph with the staging, marts, and testing tasks.
 
-```markdown
+
 ![Airflow Pipeline](screenshots/airflow_pipeline.png)
-```
+
 
 ### Snowflake Data Warehouse
 
@@ -142,11 +142,10 @@ Show the schemas and the resulting municipal KPI table.
 
 Show the actual municipal analytics dashboard.
 
-```markdown
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
-```
 
-*Replace these example image paths with the actual screenshot filenames in your repository.*
+![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+
+
 
 ## Key Skills Demonstrated
 
